@@ -1,0 +1,5 @@
+opencv-python
+pillow
+customtkinter
+torch (CPU wheel: pip install torch --index-url https://download.pytorch.org/whl/cpu)
+transformers
